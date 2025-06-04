@@ -1,0 +1,23 @@
+[
+  {
+    "idAgendamento": "ag-1748888699105-07bwg",
+    "idSlot": "slot2-202506161000",
+    "dataHoraAgendamento": "2025-06-02T18:24:59.105Z",
+    "nomeCliente": "cristian abreu da cruz",
+    "telefoneCliente": "79999525317"
+  },
+  {
+    "idAgendamento": "ag-1748888726395-w62pz",
+    "idSlot": "slot1-202506160900",
+    "dataHoraAgendamento": "2025-06-02T18:25:26.395Z",
+    "nomeCliente": "cristian abreu da cruz",
+    "telefoneCliente": "79999525317"
+  },
+  {
+    "idAgendamento": "ag-1748889674699-14ywu",
+    "idSlot": "slot3-202506171400",
+    "dataHoraAgendamento": "2025-06-02T18:41:14.699Z",
+    "nomeCliente": "cristian abreu da cruz",
+    "telefoneCliente": "79999525317"
+  }
+]
