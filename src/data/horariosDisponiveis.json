@@ -1,0 +1,23 @@
+[
+  {
+    "id": "slot1-202506160900",
+    "data": "2025-06-16",
+    "horaInicio": "09:00",
+    "horaFim": "10:00",
+    "disponivel": false
+  },
+  {
+    "id": "slot2-202506161000",
+    "data": "2025-06-16",
+    "horaInicio": "10:00",
+    "horaFim": "11:00",
+    "disponivel": false
+  },
+  {
+    "id": "slot3-202506171400",
+    "data": "2025-06-17",
+    "horaInicio": "14:00",
+    "horaFim": "15:00",
+    "disponivel": false
+  }
+]
